@@ -65,7 +65,3 @@ docker-compose -f services-local.yml up
 
 You can find the list of all HTTP requests in [Pacco-sample-scenario.rest](https://github.com/devmentors/Pacco.APIGateway/blob/master/Pacco-sample-scenario.rest) file placed in the root folder of [Pacco.APIGateway](https://github.com/devmentors/Pacco.APIGateway) repository. 
 This file is compatible with [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) plugin for [Visual Studio Code](https://code.visualstudio.com). 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781801815956">https://packt.link/free-ebook/9781801815956 </a> </p>
